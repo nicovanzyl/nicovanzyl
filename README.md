@@ -8,7 +8,7 @@ Some of the things I'm passionate about:
 - 📱 [Progressive Web Apps](https://nicovanzyl.com/creates/progressive-web-apps/)
 - 👯 [Design Systems](https://nicovanzyl.com/work/imagemakers/)
 
-I love working with startups or established product teams. Whatever it is, I plan & build exceptional interfaces that make business sense.
+I love working with startups or established product teams. Whatever it is, I plan, design & build exceptional interfaces that make business sense.
 
 > [LET'S BUILD SOMETHING AMAZING](https://nicovanzyl.com/contact/)
 
