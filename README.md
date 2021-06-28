@@ -1,8 +1,8 @@
-#### Hi there 👋
+![cover](https://nicovanzyl.com/cover.png "NVZ Cover")
 
-## I'm Nico van Zyl — an Interface Architect. I love what I do, I'm awesome at it.
+# I'm Nico van Zyl — Freelance Interface Architect.
 
-Some of the things I'm passionate about:
+I partner with technical founders and product teams to make a measurable impact and take companies to the next level, I have a passion for creating exceptional interfaces, applications, and tools including design systems, Jamstack websites and PWAs.
 
 - 🔭 [Jamstack](https://nicovanzyl.com/creates/jamstack-websites/)
 - 📱 [Progressive Web Apps](https://nicovanzyl.com/creates/progressive-web-apps/)
