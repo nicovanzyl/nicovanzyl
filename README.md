@@ -6,10 +6,10 @@ Some of the things I'm passionate about:
 
 - 🔭 [Jamstack](https://nicovanzyl.com/creates/jamstack-websites/)
 - 📱 [Progressive Web Apps](https://nicovanzyl.com/creates/progressive-web-apps/)
-- 👯 [Design Systems](https://nicovanzyl.com/work/imagemakers/)
+- 👯 [Design Systems](https://nicovanzyl.com/work/creates/design-systems/)
 
 I love working with startups or established product teams. Whatever it is, I plan, design & build exceptional interfaces that make business sense.
 
-> [LET'S BUILD SOMETHING AMAZING](https://nicovanzyl.com/contact/)
+## [LET'S BUILD SOMETHING AMAZING](https://nicovanzyl.com/)
 
-You can read more [about me](https://nicovanzyl.com/about/)
+![Metrics](https://metrics.lecoq.io/nicovanzyl?template=classic&config.timezone=Africa%2FJohannesburg)
